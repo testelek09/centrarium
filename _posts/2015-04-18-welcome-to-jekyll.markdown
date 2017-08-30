@@ -3,12 +3,12 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-04-18 08:43:59
 author: Ben Centra
-categories: Jekyll
+categories: Dummy
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Youâ€™ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 ## Adding New Posts
 
@@ -63,7 +63,7 @@ Lightbox has been enabled for images. To create the link that'll launch the ligh
 
 For more information, check out the [Lightbox][lightbox] website.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyllâ€™s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyllâ€™s dedicated Help repository][jekyll-help].
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
